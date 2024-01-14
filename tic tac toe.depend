@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681932266 source:j:\projects\1st\tic tac toe\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<MMsystem.h>
+
